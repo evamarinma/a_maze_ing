@@ -36,7 +36,7 @@ make lint
 ```bash
 git clone git@vogsphere-v2.42madrid.com:vogsphere/intra-uuid-7f0a7342-6639-416d-80ed-3eb0d475c353-7269739-mabada-r
 ```
-<button onclick="navigator.clipboard.writeText('clone git@vogsphere-v2.42madrid.com:vogsphere/intra-uuid-7f0a7342-6639-416d-80ed-3eb0d475c353-7269739-mabada-r')"></button>
+<button onclick="navigator.clipboard.writeText('clone git@github.com:evamarinma/a_maze_ing.git')"></button>
 <br>
 
 2. Create a virtual environment to safely install dependencies. To do so, execute the following command.

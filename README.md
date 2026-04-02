@@ -43,14 +43,14 @@ git clone git@vogsphere-v2.42madrid.com:vogsphere/intra-uuid-7f0a7342-6639-416d-
 ```bash
 python3 -m venv [venv_name]
 ```
-<button onclick="navigator.clipboard.writeText('python3 -m venv [venv_name]')">Copy</button>
+<button onclick="navigator.clipboard.writeText('python3 -m venv [venv_name]')"></button>
 <br>
 
 3. Now, activate the virtual environment so dependencies install inside of it.
 ```bash
 source [venv_name]/bin/activate
 ```
-<button onclick="navigator.clipboard.writeText('source [venv_name]/bin/activate')">Copy</button>
+<button onclick="navigator.clipboard.writeText('source [venv_name]/bin/activate')"></button>
 <br>
 
 4. Run **'make install'** command to install mlx and mypy dependencies.
@@ -67,8 +67,7 @@ source [venv_name]/bin/activate
     <img width="455" height="465" alt="A screenshot the unsolved maze" src="https://i.imgur.com/BOEMgo1.png" />
 <br>
 > &nbsp;
-> :warning: **WARNING**
->
+> [!warning]
 > *Don't try to rescale the window, as it'll produce a segmentation fault.*
 > &nbsp;
 

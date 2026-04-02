@@ -66,10 +66,10 @@ source [venv_name]/bin/activate
 <br>
     <img width="455" height="465" alt="A screenshot the unsolved maze" src="https://i.imgur.com/BOEMgo1.png" />
 <br>
-> &nbsp;
+
 > [!warning]
 > *Don't try to rescale the window, as it'll produce a segmentation fault.*
-> &nbsp;
+
 
 ### :keyboard: User controls
 

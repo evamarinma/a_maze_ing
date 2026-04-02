@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by emarin-m and mabada-r*
+*This project has been created as part of the 42 curriculum by emarin-m and mabada-r (@maria-bada)*
 
 # A_MAZE_ING
 
